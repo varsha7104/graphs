@@ -1,3 +1,9 @@
+/*Given an undirected graph with V vertices and E edges, represented as a 2D vector edges[][], where each entry edges[i] = [u, v] denotes an edge between vertices u and v, determine whether the graph contains a cycle or not.
+
+Examples:
+
+Input: V = 4, E = 4, edges[][] = [[0, 1], [0, 2], [1, 2], [2, 3]]
+Output: true*/
 class Solution {
   public:
  bool dfs(int u,vector<vector<int>>&adj,vector<bool>&vis,vector<int>&parent){
