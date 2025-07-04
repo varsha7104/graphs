@@ -10,3 +10,7 @@ In this repository I am  going to solve all my graphs questions
 8)  check cycle in directed graph using bfs
 9) Number of provinces(using dfs)
 10) no of provinces (using bfs)
+11) course schedule using topo
+12)  course schedule using dfs
+13)   course schedule 2using topo
+14)    course schedule 2using dfs
