@@ -9,3 +9,4 @@ In this repository I am  going to solve all my graphs questions
 7) topological sort using bfs
 8)  check cycle in directed graph using bfs
 9) Number of provinces(using dfs)
+10) no of provinces (using bfs)
