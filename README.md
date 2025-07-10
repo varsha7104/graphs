@@ -6,7 +6,7 @@ In this repository I am  going to solve all my graphs questions
 4) detect cycle in undirected graph
 5) detect cycle in directed graph
 6)topological  sort
-7) topological sort using bfs
+7) topological sort using bfs(kahn algorithm)
 8)  check cycle in directed graph using bfs
 9) Number of provinces(using dfs)
 10) no of provinces (using bfs)
